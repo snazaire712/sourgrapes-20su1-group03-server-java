@@ -1,6 +1,9 @@
 # sourgrapes-20su1-group03-server-java
 
 Sour Grapes
+
+By: Sharice Nazaire, Manvi Tandon, Anupama Kandasamy, Jialin Zhen 
+
 1. State the problem you are trying to solve: 
 Our project idea is aimed at optimizing users’ Netflix/film viewing experience during a time where social distancing is essential. More people are likely searching for entertainment options while quarantining, and watching shows is definitely one of them. It can be hard to find the perfect show to sink one’s teeth into, so our project aims to provide users with film reviews to help narrow down the options, and/or make their own reviews about films they have already seen. 
 Netflix TV shows, movies, documentaries 
